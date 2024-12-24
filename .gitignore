@@ -1,16 +1,1 @@
-Data/datacon2021_traffic_cs1/stage1.pcap
-Data/datacon2021_traffic_cs2_http/http_stage2.pcap
-Data/datacon2021_traffic_cs2_http/output_0.json
-Data/datacon2021_traffic_cs2_http/http_sample/心跳包.pcap
-Data/datacon2021_traffic_cs2_http/http_sample/file_explore.pcap
-Data/datacon2021_traffic_cs2_http/http_sample/hashdump.pcap
-Data/datacon2021_traffic_cs2_http/http_sample/screenshot.pcap
-Data/datacon2021_traffic_cs2_http/http_sample/shell_whoami.pcap
-Data/datacon2021_traffic_cs2_http/http_sample/sleep_10.pcap
-Data/datacon2021_traffic_cs2_https1/https_only.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/心跳包.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/file_explore.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/hashdump.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/screenshot.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/shell_whoami.pcap
-Data/datacon2021_traffic_cs2_https1/https_sample/sleep_10.pcap
+Data/
